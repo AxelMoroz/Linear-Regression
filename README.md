@@ -1,6 +1,7 @@
 # Linear-Regression
 
 <img width="567" height="370" alt="image" src="https://github.com/user-attachments/assets/d148c514-ea64-474c-a4df-174b1209a491" />
+<img width="976" height="521" alt="image" src="https://github.com/user-attachments/assets/da15ee46-c261-4bd9-9c7c-ad5c07f94f1a" />
 
 El programa:
 Carga datos desde train.csv y test.csv.
